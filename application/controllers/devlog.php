@@ -64,6 +64,7 @@
 			$data['devlog'] = $this->devlog_model->get_devlog($project);
 
 			$titleArray = explode("-", $project);
+			$title = "";
 			foreach($titleArray as $value)
 			{
 				$title = $title." ".ucfirst($value);
