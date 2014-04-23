@@ -15,10 +15,10 @@
 |
 */
 // Production
-$config['base_url']	= 'http://blackmodulestudio.com/';
+//$config['base_url']	= 'http://blackmodulestudio.com/';
 
 // Development
-//$config['base_url']		= 'http://localhost/blackmodulestudio/';
+$config['base_url']		= 'http://localhost/blackmodulestudio/';
 
 /*
 |--------------------------------------------------------------------------

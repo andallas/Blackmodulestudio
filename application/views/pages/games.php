@@ -39,7 +39,7 @@
 
 		<div class="col-xs-12 col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<center><a href="<?php echo site_url('projects/lost-frontier') ?>"><img class="img-rounded" data-src="holder.js/256x256/BMS/text:Coming Soon"></a></center>
+				<center><a href="<?php echo site_url('projects/lost-frontier') ?>"><img src="http://i1183.photobucket.com/albums/x480/andallas/Lost%20Frontier/Logo_zps0e8a4016.png"></a></center>
 				<div class="caption">
 					<h5><a href="<?php echo site_url('projects/lost-frontier') ?>">Lost Frontier</a></h5>
 					<h4>Release: TBD</h4>
