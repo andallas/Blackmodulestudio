@@ -24,7 +24,7 @@
 						<li class="divider"></li>
 						<li class="dropdown-header">Unity</li>
 						<li><a href="<?php echo site_url('projects/tones-adventure') ?>">Tone's Adventure</a></li>
-						<li><a href="<?php echo site_url('projects/outland') ?>">Outland</a></li>
+						<li><a href="<?php echo site_url('projects/lost-frontier') ?>">Lost Frontier</a></li>
 					</ul>
 				</li>
 			</ul>

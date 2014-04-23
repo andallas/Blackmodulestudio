@@ -62,7 +62,14 @@
 		public function project($project)
 		{
 			$data['devlog'] = $this->devlog_model->get_devlog($project);
-			$data['title'] = ucfirst($project).' Devlog Archives';
+
+			$titleArray = explode("-", $project);
+			foreach($titleArray as $value)
+			{
+				$title = $title." ".ucfirst($value);
+			}
+
+			$data['title'] = $title.' Devlog Archives';
 			$data['project'] = $project;
 
 			$this->load->view('templates/header', $data);

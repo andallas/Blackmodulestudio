@@ -1,6 +1,6 @@
 <div class="container">
-	<h4>Outland is our real-time, city-building, survival, exploration, tactical, strategy game that we are making in Unity.</h4>
-		<p>This game started out as a small project/experiment in making a voxel engine within Unity. After only a few weeks, the engine was up and running very well. We threw some ideas around and decided that we really wanted to make Outland.</p>
+	<h4>Lost Frontier is our real-time, city-building, survival, exploration, tactical, strategy game that we are making in Unity.</h4>
+		<p>This game started out as a small project/experiment in making a voxel engine within Unity. After only a few weeks, the engine was up and running very well. We threw some ideas around and decided that we really wanted to make Lost Frontier.</p>
 
 		<br>
 		<center>

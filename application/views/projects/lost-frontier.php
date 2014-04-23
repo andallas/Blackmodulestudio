@@ -1,18 +1,18 @@
 <div class="container">
-	<h4>Outland is our real-time, city-building, survival, exploration, tactical, strategy game that we are making in Unity.</h4>
-		<p>This game started out as a small project/experiment in making a voxel engine within Unity. After only a few weeks, the engine was up and running very well. We threw some ideas around and decided that we really wanted to make Outland.</p>
+	<h4>Lost Frontier is our real-time, city-building, survival, exploration, tactical, strategy game that we are making in Unity.</h4>
+		<p>This game started out as a small project/experiment in making a voxel engine within Unity. After only a few weeks, the engine was up and running very well. We threw some ideas around and decided that we really wanted to make Lost Frontier.</p>
 
 		<div class="row marketing">
 			<div class="col-xs-12 col-sm-6 col-md-4">
 				<div class="thumbnail thumbnail-small">
-					<center><a href="<?php echo site_url('projects/outland') ?>"><img class="img-rounded" data-src="holder.js/256x256/BMS/text:Coming Soon"></a></center>
+					<center><a href="<?php echo site_url('projects/lost-frontier') ?>"><img class="img-rounded" data-src="holder.js/256x256/BMS/text:Coming Soon"></a></center>
 					<div class="caption">
-						<h5><a href="<?php echo site_url('projects/outland') ?>">Outland</a></h5>
+						<h5><a href="<?php echo site_url('projects/lost-frontier') ?>">Lost Frontier</a></h5>
 						<h4>Release: TBD</h4>
 						<hr>
 						<a href="#" class="btn btn-primary" role="button" disabled>Play</a>
-						<a href="<?php echo site_url('projects/outland-media') ?>" class="btn btn-primary" role="button">Media</a>
-						<a href="<?php echo site_url('devlog/outland') ?>" class="btn btn-primary" role="button">Devlog</a>
+						<a href="<?php echo site_url('projects/lost-frontier-media') ?>" class="btn btn-primary" role="button">Media</a>
+						<a href="<?php echo site_url('devlog/lost-frontier') ?>" class="btn btn-primary" role="button">Devlog</a>
 					</div>
 				</div>
 			</div>
