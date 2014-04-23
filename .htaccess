@@ -1,10 +1,6 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-<<<<<<< HEAD
 RewriteBase /blackmodulestudio/
-=======
-RewriteBase /
->>>>>>> bd3e2aef8df601e35565bcabef34deef6c1a21d2
 
 RewriteCond %{REQUEST_URI} ^system.*
 RewriteRule ^(.*)$ /index.php?/$1 [L]
