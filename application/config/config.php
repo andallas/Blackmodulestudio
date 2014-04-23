@@ -14,8 +14,12 @@
 | path to your installation.
 |
 */
+<<<<<<< HEAD
 //$config['base_url']	= 'http://blackmodulestudio.com/';
 $config['base_url']		= 'http://localhost/blackmodulestudio/';
+=======
+$config['base_url']	= 'http://blackmodulestudio.com/';
+>>>>>>> bd3e2aef8df601e35565bcabef34deef6c1a21d2
 
 /*
 |--------------------------------------------------------------------------
