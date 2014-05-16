@@ -1,10 +1,25 @@
 <div class="container">
-	<div class="col-lg-6-offset-2 well">
-		<center>
-			<h2>Welcome to Blackmodule Studio</h2>
-			<p class="lead">We enjoy making games, as well as playing them. Check out some of our recent games!</p>
-			<p><a class="btn btn-lg btn-success" href="<?php echo site_url('games') ?>" role="button">Check Out Our Games</a></p>
-		</center>
+	<div class="row">
+		<div class="col-lg-6-offset-2 well">
+			<center>
+				<h2>Welcome to Blackmodule Studio</h2>
+				<p class="lead">We enjoy making games, as well as playing them. Check out some of our recent games!</p>
+				<div class="row">
+					<div class="col-sm-4">
+						<a class="btn btn-lg btn-success" href="<?php echo site_url('games') ?>" role="button">Check Out Our Games</a>
+					</div>
+					<div class="col-sm-4">
+						<a href="http://www.patreon.com/UnityTutorials" role="button">
+							<img src="<?php echo base_url(); ?>/assets/img/Patreon.png" alt="Support our videos">
+							<h4>Help support our videos!</h4>
+						</a>
+					</div>
+					<div class="col-sm-4">
+						<a class="btn btn-lg btn-success" href="<?php echo site_url('videos') ?>" role="button">Watch Our Videos</a>
+					</div>
+				</div>
+			</center>
+		</div>
 	</div>
 
 	<div class="row">

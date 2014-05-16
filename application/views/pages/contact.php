@@ -1,5 +1,5 @@
 <div class="container">
-	<div class="jumbotron">
+	<div class="jumbotron well">
 		<h1>Can't get enough of us?</h1>
 		<p class="lead">If you are interested in getting to know us more, or just following what we do, feel free to check us out on one of these social networks (or all of them).</p>
 	</div>

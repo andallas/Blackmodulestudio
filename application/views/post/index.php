@@ -6,10 +6,6 @@
 			<p class="article"><?php echo $news_post['text'] ?></p>
 
 			<br>
-
-			<!-- <p>
-				<a href="<?php echo site_url('pages/remove/'.$news_post["id"]) ?>" class="btn btn-danger" role="button">Remove news post</a>
-			</p> -->
 		</div>
 	<?php endforeach ?>
 </div>

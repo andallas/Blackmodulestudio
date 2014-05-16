@@ -1,5 +1,5 @@
 <div class="container">
-	<div class="jumbotron">
+	<div class="jumbotron well">
 		<h1>Ready for some fun?</h1>
 		<p class="lead">This is the collection of games that we've made here at Blackmodule Studio. Try them out and tell us what you think!</p>
 	</div>

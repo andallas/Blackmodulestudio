@@ -16,6 +16,7 @@
 				<li><a href="<?php echo site_url('about') ?>">About</a></li>
 				<li><a href="<?php echo site_url('contact') ?>">Contact</a></li>
 				<li><a href="<?php echo site_url('games') ?>">Games</a></li>
+				<li><a href="<?php echo site_url('videos') ?>">Videos</a></li>
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
 					<ul class="dropdown-menu">
